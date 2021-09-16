@@ -27,7 +27,7 @@ The pedals are connected to the stering wheel case via 2 RJ9 connectors and a ca
 and the RJ9 as 4 connections so i rebuilt the pedal connections to use separate pots
 and added +5v and Ground to the soup.
 
-![Pedal Assembly](/Docs/PedalConnections.png)
+![Pedal Assembly](/Docs/PedalConnections.PNG)
 
 ### Steering Wheel Assembly
 
