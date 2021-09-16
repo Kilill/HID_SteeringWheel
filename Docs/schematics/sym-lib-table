@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DigisparkMode)(type Legacy)(uri ${KIPRJMOD}/DigisparkMode.lib)(options "")(descr ""))
+)
