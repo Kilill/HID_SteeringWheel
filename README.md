@@ -27,7 +27,7 @@ The pedals are connected to the stering wheel case via 2 RJ9 connectors and a ca
 and the RJ9 as 4 connections so i rebuilt the pedal connections to use separate pots
 and added +5v and Ground to the soup.
 
-![Pedal Assembly](/Docs/PedalConnections.PNG)
+![Pedal Connections](/Docs/PedalConnections.png)
 
 ### Steering Wheel Assembly
 
@@ -46,7 +46,7 @@ ie Pin 0,3,4,6,7 and using PIN 11 for analog in was not possible since it
 doubles as the SPI clck and for was bleeding over the clock to the analog 
 readings. I spread the connections out on the rest of the pins.
 
-![Pedal Assembly](/Docs/WheelConnections.png)
+![Wheel Assembly](/Docs/WheelConnections.png)
 
 ## Software
 
